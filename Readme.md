@@ -50,7 +50,7 @@ To set up this project on your local machine:
 ### Step 1: Clone the Repository
 
    bash
-   git clone https://github.com/Navjot190102/Event-Management-System.git
+   git clone https://github.com/Prajyot1901/Project-Event-Management-System.git
   
 
 ### Step 2: Import the Database
